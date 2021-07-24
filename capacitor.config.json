@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mercado",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

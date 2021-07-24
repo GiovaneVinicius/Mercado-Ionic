@@ -1,0 +1,8 @@
+{
+  "name": "Mercado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c98af637"
+}
